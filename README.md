@@ -38,8 +38,7 @@ Synthetic fintech transaction dataset simulating real-world payment behavior.
 | transactions.csv | Transaction-level payment data |
 | users.csv | User behavioral data |
 
-### Full dataset removed due to size constraints.
-Sample dataset included for reproducibility.
+#### Full dataset removed due to size constraints.Sample dataset included for reproducibility.
 ---
 
 ## Project Structure
